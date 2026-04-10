@@ -5,7 +5,7 @@
 ![Nível](https://img.shields.io/badge/Nível-Iniciante-green?style=for-the-badge)
 ![Dataset](https://img.shields.io/badge/Dataset-Olist%20E--commerce-orange?style=for-the-badge)
 
-> 📌 Projeto de portfólio desenvolvido durante minha jornada iniciação para Análise de Dados.  
+> 📌 Projeto de portfólio desenvolvido durante minha jornada de iniciação para Análise de Dados.  
 > Aqui documento meu aprendizado em SQL com consultas reais aplicadas ao dataset público da Olist.
 
 -----
